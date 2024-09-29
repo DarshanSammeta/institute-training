@@ -198,10 +198,15 @@ ul.navbar-nav.justify-content-end.mb-2.mb-lg-0.px-5{
 }
 .sub button{
      border-radius: 20px;
+	 margin-bottom: 10px;
 
 }
 /**********Footer*************/
 
 footer ul a{
- color: #000;
+ color: #e3f2fd;
 }
+
+footer ul a:hover{
+	color: #ffffff;
+   }
